@@ -1,6 +1,6 @@
 <?php
 // List of recipient email addresses (comma-separated)
-$recipientEmails = 'cekvinneedy5@gmail.com, sarrajusantosh@gmail.com, ajaygoel999@gmail.com, test@chromecompete.com, ajay@ajaygoel.net, test@ajaygoel.org, me@dropboxslideshow.com, test@wordzen.com, rajgoel8477@gmail.com, rajanderson8477@gmail.com, rajwilson8477@gmail.com, briansmith8477@gmail.com, oliviasmith8477@gmail.com, ashsmith8477@gmail.com, shellysmith8477@gmail.com, ajay@madsciencekidz.com, ajay2@ctopowered.com, ajay@arena.tec.br, ajay@daustin.co,';
+$recipientEmails = 'sarrajusantosh@gmail.com,';
 
 // Subject of the email
 $subject = 'Authorization to Promote PayPal on Google Ads';
