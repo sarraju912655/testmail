@@ -31,7 +31,7 @@ PayPal
 ';
 
 // Sender email and name
-$senderEmail = 'JohnDoe@amzsa.com';
+$senderEmail = 'JohnDoe@chakritechnologies.com';
 $senderName = 'JohnDoe@Ppl.com';
 
 // Additional headers
